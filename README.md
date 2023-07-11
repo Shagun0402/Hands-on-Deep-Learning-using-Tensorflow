@@ -7,3 +7,4 @@ CNN on grey-scale Images:
 
 CNN on colored Images:
   1. Dogs vs. Cats Image Classification using Kaggle Dataset.
+  2. Dogs vs Cats Image Classification using Image Augmentation Techniques.

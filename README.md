@@ -4,4 +4,4 @@ CNN on grey-scale Images:
 1. Image Classification using Fashion MNIST dataset.
 
 CNN on colored Images:
-3. Dogs vs. Cats Image Classification using Kaggle Dataset.
+2. Dogs vs. Cats Image Classification using Kaggle Dataset.

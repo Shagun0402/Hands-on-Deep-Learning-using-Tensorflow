@@ -1,6 +1,7 @@
 # Hands-on-Deep-Learning-using-Tensorflow
 This repository comprises of Colab Notebooks to understand Deep Learning concepts using Tensorflow.
 CNN on grey-scale Images:
+1. Classifying Images of Clothing using Fashion MNIST dataset.
 1. Image Classification using Fashion MNIST dataset.
 
 CNN on colored Images:
